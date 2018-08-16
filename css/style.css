@@ -1,0 +1,51 @@
+.slideshow
+{
+
+}
+
+.partner
+{
+    margin-top: 8px;
+	height: 30px;
+    width: 115px;
+    padding: 0 0 0 10px;
+    color: #fff;
+    line-height: 30px;
+    font-size: 12px;
+    font-weight: bold;
+}
+#menu-register
+{
+	float: right;
+}
+
+#menu-login
+{
+	float: right;
+}
+
+#content
+{
+    padding-right: 50px
+}
+
+#mainmenu ul li a:hover, #mainmenu ul li.active a
+{
+    color: #e95a1c;
+}
+
+#custom-box
+{
+    padding: 15px 15px 15px 15px; margin: 5px 5px 5px 5px; color: white; height:200px;-webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;background:rgba(232,114,60,0.8);-webkit-box-shadow: #878787 5px 5px 5px;-moz-box-shadow: #878787 5px 5px 5px; box-shadow: #878787 5px 5px 5px;
+}
+
+#custom-inner-box
+{
+    background-color: white; margin-bottom: 10px; border-radius: 10px;
+}
+
+.fa
+{
+    color: #fff;
+    margin-left: 10px;
+}
